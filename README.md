@@ -1,1 +1,1 @@
-# js-programmers-al
+# JS programmers.co.kr
