@@ -27,9 +27,9 @@ function solution(genres, plays) {
     return answer;
 }
 
-console.log(
-    solution(
-        ["classic", "pop", "classic", "classic", "classic", "pop"],
-        [500, 600, 900, 500, 800, 2500],
-    ),
-);
+// console.log(
+//     solution(
+//         ["classic", "pop", "classic", "classic", "classic", "pop"],
+//         [500, 600, 900, 500, 800, 2500],
+//     ),
+// );
